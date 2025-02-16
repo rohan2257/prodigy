@@ -1,7 +1,7 @@
-Responsive Landing Page
+Responsive Landing Page &
 StopWatch Web Application
 ---
-Task - To Build a responsive landing page using html,css and javascript.
-Task - To build a stopwatch web application using html,css and javascript.
+Task1 - To Build a responsive landing page using html,css and javascript.
+Task2  - To build a stopwatch web application using html,css and javascript.
 
 
